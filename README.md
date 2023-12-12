@@ -16,7 +16,7 @@ Although mutations experiencing different directions and degrees of selection ca
 
 **Figure 2:** Minimum q-values for synonymous amino acid mutations in the spike protein. Mutations not near notable deletions are black. P25P is near L24-, P25- and P26-. V70V is near H69- and V70-. Y145Y is near Y144-. For more information visit https://covariants.org/shared-mutations.
 
-To learn more, check out my poster for graduate-level biologists and computer scientists: [click here]()  
+To learn more, check out my poster for graduate-level biologists and computer scientists: [click here](Fall_Rotation_Poster.pdf)  
 Additionally, visit the [original repository](https://github.com/jbloomlab/SARS2-mut-fitness) to explore this research and related projects in greater depth.
 
 ## Parallel Computing
